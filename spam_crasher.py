@@ -24,7 +24,7 @@ def spam(delay, ranger, path, exec, procces_type):
             os.system(f'python {exec}')
     elif procces_type == 'js':
         for i in range(ranger):
-            os.system(f'npm run {exec}')
+            os.system(f'node {exec}')
 #def syskill(timer, sys_type):
 #    print(f"Starting the sussy process :) within {timer} seconds")
 #    time.sleep(timer)
