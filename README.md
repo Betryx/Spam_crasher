@@ -32,5 +32,5 @@ The library is in active state ov development and improvement and for now contai
         anything else than linux or windows is considered as invalid argument.
         if there is an error such as 'Not existind directory', simply put the path to the system files.
 # conclusion
-This library is ment for system testing and if you want to use it for bad purposes i am not taking any responsibilities for your actions.
+This library is ment for system testing and if you want to use it for bad purposes i am not taking any responsibility for your actions.
 Be awared that the libray is getting constant updates and if there is something that isnt ok with the library, please consider comenting.
